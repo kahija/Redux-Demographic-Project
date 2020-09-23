@@ -1,6 +1,6 @@
 # dependencies
 /node_modules/
 #gitignore
-*.gitignore
-#package
-package-lock*
+*gitignore
+# misc
+.DS_Store

@@ -1,6 +1,4 @@
 # dependencies
 /node_modules/
-#gitignore
-*gitignore
 # misc
 .DS_Store

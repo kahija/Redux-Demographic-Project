@@ -2,3 +2,4 @@
 /node_modules/
 # misc
 echo .DS_Store >> .gitignore
+.DS_Store
